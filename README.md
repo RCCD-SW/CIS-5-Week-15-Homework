@@ -51,8 +51,13 @@ No new language topics. No GUI. No `new`/`delete` required. If you need a featur
 - Due: finals / late policy as published; otherwise Monday night of Week 15
 - Discussions (every week): first post Friday, replies Sunday
 
-## Rubric
-Graded on the must-includes in this README, a working demo, and a video you can defend.
+## Rubric (100)
+
+| Criterion | Pts |
+|-----------|----:|
+| Code submitted that does the work | 50 |
+| Video explanation | 50 |
+
 
 ## Getting started
 
